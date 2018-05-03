@@ -1,1 +1,5 @@
 theme: jekyll-theme-time-machine
+title: This is the personal homepage of prateekakanksh
+descriptions:Here you will find their beautiful love story
+plugins:
+-jemoji
